@@ -6,20 +6,6 @@ Este repositório tem o objetivo de demonstrar habilidades técnicas com **Java*
 
 ---
 
-## ✅ Funcionalidades
-
-- 🔐 Cadastro e autenticação de usuários (com token JWT)
-- 🧑‍💻 CRUD completo de Usuários
-- 📝 CRUD de Postagens e Temas
-- 🔗 Relacionamento entre Postagem e Tema / Usuário
-- 🔐 Segurança com Spring Security e autenticação stateless
-- 📚 Documentação interativa via Swagger UI
-- 🧪 Testes com JUnit
-- 📊 Análise de qualidade de código com SonarQube
-- 🛢️ Banco de dados H2 em memória
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 | Tecnologia       | Finalidade                          |
